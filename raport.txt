@@ -1,0 +1,10 @@
+
+je dois trouver une cle de 64bits
+
+dont 56 sont des bits de cle
+8 sont des bits de poids faibles non utilisé dans l'algo
+ils sont la pour de la detection d'erreur et sont trouvable de maniere systematique
+
+parmis les 56 bits de cle 48 serons trouvé via les erreurs 
+les 8 restant seron trouvé avec du brute force bien sale 
+
